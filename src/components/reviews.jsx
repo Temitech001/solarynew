@@ -15,7 +15,7 @@ const Reviews = () => {
       >
         <div className="flex flex-col justify-center items-center mt-8">
           <div className="flex flex-col justify-center items-center ">
-            <h1>
+            <h1 className="w-24">
               <AiOutlineUsergroupAdd />
             </h1>
             <p>Total Projects</p>
