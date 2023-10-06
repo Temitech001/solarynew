@@ -28,12 +28,12 @@ const About = () => {
               />
             }
           </div>
-          <div>
-            <p className="text-4xl ml-[78px] text-black font-bold inline border-b-4 border-black">
+          <div className="flex flex-col items-center justify-center">
+            <p className="text-4xl  text-black font-bold inline border-b-4 border-black">
               About
             </p>
 
-            <p className="text-black mt-[40px]">
+            <p className="text-black mt-[40px] px-5">
               At SolarEco Solutions, we're passionate about harnessing the power
               of the sun to create a sustainable and cleaner future for
               generations to come. Established in [Year], our company is

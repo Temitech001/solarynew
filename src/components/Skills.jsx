@@ -99,7 +99,7 @@ const Skills = () => {
             </p>
           </div>
 
-          <div className=" lg:hidden mt-9 border border-1 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[20px]">
+          <div className=" lg:hidden mt-9 border-2 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[20px]">
             <h1 className="font-semibold text-xl text-black lg:text-end">
               Easy installation
             </h1>
