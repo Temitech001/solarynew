@@ -9,9 +9,9 @@ const About = () => {
       className="w-full lg:h-screen bg-white text-gray-300 mt-[200px]  "
     >
       <div className="flex flex-col justify-center items-center w-full h-full">
-        <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8"></div>
-        <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
-          <h1 className="font-semibold text-3xl text-start text-black">
+        <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8 "></div>
+        <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4 ">
+          <h1 className="font-semibold text-3xl text-start text-black ">
             We find the highest & Best use of resource
           </h1>
           <p className=" text-black text-start">
@@ -29,7 +29,7 @@ const About = () => {
             }
           </div>
           <div>
-            <p className="text-4xl text-black font-bold inline border-b-4 border-black">
+            <p className="text-4xl ml-[78px] text-black font-bold inline border-b-4 border-black">
               About
             </p>
 

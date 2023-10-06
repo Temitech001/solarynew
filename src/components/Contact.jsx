@@ -8,24 +8,24 @@ const Contact = () => {
     >
       <form className="flex flex-col max-w-[600px] w-full">
         <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4 border-black  text-black">
+          <p className="text-4xl font-bold inline border-b-4 border-black ml-[78px] text-black">
             Contact
           </p>
         </div>
         <input
-          className="bg-[#ccd6f6] p-2"
+          className="bg-[#ccd6f6] w-[280px] ml-[25px]  p-2"
           type="text"
           placeholder="Name"
           name="name"
         />
         <input
-          className="my-4 p-2 bg-[#ccd6f6]"
+          className="my-4 p-2 bg-[#ccd6f6] w-[280px] ml-[25px] "
           type="email"
           placeholder="Email"
           name="email"
         />
         <textarea
-          className="bg-[#ccd6f6] p-2"
+          className="bg-[#ccd6f6] p-2 w-[270px flex w-[280px] ml-[25px] h-[230px] ml-[25px ]"
           name="message"
           rows="10"
           placeholder="Message"

@@ -18,7 +18,7 @@ const Navbar = () => {
 
   return (
     <div className="fixed w-full h-[70px] z-50 flex justify-between items-center px-4 bg-green-400 text-black">
-      <div className="text-3xl font-semibold ml-[90px]">SolarInc</div>
+      <div className="text-1xl font-semibold ml-[20px]">SolarInc</div>
 
       {/* menu */}
       <ul className="hidden md:flex font-semibold mr-[60px]">

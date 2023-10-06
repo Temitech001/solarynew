@@ -22,11 +22,11 @@ const Header = () => {
           src={img1}
           alt="key"
         />
-        <div className="flex flex-col  absolute top-32 gap-5 w-fit px-16 py-4 text-center justify-center  items-center z-40  ">
-          <h1 className="mt-[80px] text-white shadow-md z-index lg:text-5xl font-extrabold">
+        <div className="flex flex-col  absolute top-28 gap-5 w-fit px-16 py-4 text-center justify-center  items-center z-40  ">
+          <h1 className="mt-[20px] text-white shadow-md z-index lg:text-5xl font-extrabold">
             Energy Generated from Natural Resource
           </h1>
-          <p className="text-white shadow-md font-semibold mt-5 ">
+          <p className="text-white shadow-md font-semibold text-sm  ">
             Solar Power because the best things in life end up being free
           </p>
           <Link
@@ -34,12 +34,12 @@ const Header = () => {
             smooth={true}
             duration={500}
           >
-            <button className="bg-orange-500 font-semibold text-sm text-white mt-[50px] py-3 px-6 rounded">
+            <button className="bg-orange-500 font-semibold text-sm text-white mt-[6px] py-3  rounded">
               CONTACT US
             </button>
           </Link>
         </div>
-        <div className="text-white mt-[70px] flex flex-col  px-8   items-center justify-center lg:flex-row lg:px-40 lg:gap-5 lg:justify-evenly gap-8">
+        <div className="text-white mt-[120px]  flex flex-col  px-8   items-center justify-center lg:flex-row lg:px-40 lg:gap-5 lg:justify-evenly gap-8">
           <h1 className=" mt-8 flex-1 font-semibold text-3xl text-start text-black">
             We find the highest and Best use of resource
           </h1>
@@ -58,10 +58,10 @@ const Header = () => {
             className="bg-white text-blue-600"
             key={item.id}
           >
-            <div className="flex flex-col items-center border  border-1  w-[320px]">
+            <div className="flex flex-col items-center border   border-1  w-[320px]">
               {' '}
               <img
-                className="w-[150px] mt-5  "
+                className="w-[150px]  "
                 src={item.image}
                 alt="nim"
               />
