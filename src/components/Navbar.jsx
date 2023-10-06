@@ -70,6 +70,7 @@ const Navbar = () => {
       </ul>
 
       {/* Hamburger */}
+      {/* Hamburger */}
       <div
         onClick={handleClick}
         className="md:hidden z-10"
