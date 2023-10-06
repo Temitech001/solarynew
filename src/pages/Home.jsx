@@ -5,6 +5,7 @@ import Navbar from '../components/Navbar';
 import Skills from '../components/Skills';
 import Work from '../components/Work';
 import Footer from '../components/Footer';
+import Reviews from '../components/reviews';
 
 function Home() {
   return (
@@ -14,6 +15,7 @@ function Home() {
       <About />
       <Skills />
       <Work />
+      <Reviews />
       <Contact />
       <Footer />
     </div>
