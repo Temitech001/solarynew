@@ -17,7 +17,7 @@ const Navbar = () => {
   const handleClick = () => setNav(!nav);
 
   return (
-    <div className="fixed w-full h-[70px] z-50 flex justify-between items-center px-4 bg-green-400 text-black">
+    <div className="fixed w-screen h-[70px] top-0 z-50 flex justify-between items-center px-4 bg-green-400 text-black">
       <div className="text-1xl font-semibold ml-[20px ]">SolarInc</div>
 
       {/* menu */}
