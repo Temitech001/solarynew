@@ -88,7 +88,7 @@ const Skills = () => {
             <h1 className="font-semibold text-xl text-black lg:text-end">
               Renewable Energy Solutions
             </h1>
-            <p className="lg:text-end lgpx-7">
+            <p className="lg:text-end lg:px-7">
               Join the renewable energy revolution with our eco-friendly
               solutions. We offer a range of renewable energy solutions that
               allow you to reduce your environmental impact .
