@@ -1,5 +1,6 @@
 import React from 'react';
-import { AiOutlineUsergroupAdd } from 'react-icons/ai';
+import { AiOutlineStar, AiOutlineUsergroupAdd } from 'react-icons/ai';
+import { BsTrophy } from 'react-icons/bs';
 
 const Reviews = () => {
   const bgStyle = {
@@ -11,28 +12,28 @@ const Reviews = () => {
     <div className="flex flex-col justify-center items-center mt-8">
       <div
         style={bgStyle}
-        className=" w-[200px] text-white"
+        className=" w-[240px] py-9 text-white"
       >
-        <div className="flex flex-col justify-center items-center mt-8">
-          <div className="flex flex-col justify-center items-center ">
-            <h1 className="w-24">
+        <div className="flex flex-col  justify-center items-center mt-1 gap-3">
+          <div className="flex flex-col justify-center items-center border px-4 py-1 ">
+            <h1 className="">
               <AiOutlineUsergroupAdd />
             </h1>
             <p>Total Projects</p>
-            <p>49+</p>
+            <p className="text-2xl">59+</p>
           </div>
-          <div className="flex flex-col justify-center items-center">
+          <div className="flex flex-col justify-center items-center border px-1 py-1">
             <h1>
-              <AiOutlineUsergroupAdd />
+              <AiOutlineStar />
             </h1>
-            <p>Total Projects</p>
-            <p>49+</p>
+            <p>Rating customers </p>
+            <p>47+</p>
           </div>
-          <div className="flex flex-col justify-center items-center">
+          <div className="flex flex-col justify-center items-center border px-4 py-1">
             <h1>
-              <AiOutlineUsergroupAdd />
+              <BsTrophy />
             </h1>
-            <p>Total Projects</p>
+            <p>Award winning</p>
             <p>49+</p>
           </div>
         </div>
