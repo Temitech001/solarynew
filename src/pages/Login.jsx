@@ -59,7 +59,7 @@ const Login = () => {
               <button className="bg-green-500 px-[70px] py-[8px] rounded-full">
                 Submit
               </button>
-              <h1 className="text-sm ">Forget password</h1>
+              <h1 className="text-sm  mb-3">Forget password</h1>
             </div>
           </form>
         </div>
