@@ -15,10 +15,24 @@ import { Link } from 'react-scroll';
 const Navbar = () => {
   const [nav, setNav] = useState(false);
   const handleClick = () => setNav(!nav);
+  const logo =
+    'https://res.cloudinary.com/dutvrzezk/image/upload/v1696666237/solarinc-removebg-preview_x6mjt4.png';
 
   return (
     <div className="fixed w-screen h-[70px] top-0 z-50 flex justify-between items-center px-4 bg-green-400 text-white">
-      <div className="text-1xl font-semibold ml-[20px ]">SolarInc</div>
+      <div className="text-1xl font-semibold ml-[20px ]">
+        <Link
+          to="home"
+          smooth={true}
+          duration={500}
+        >
+          <img
+            className="w-48"
+            src={logo}
+            alt="logo"
+          />
+        </Link>
+      </div>
 
       {/* menu */}
       <ul className="hidden md:flex font-semibold mr-[60px]">
