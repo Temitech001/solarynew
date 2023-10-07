@@ -12,13 +12,14 @@ const About = () => {
         <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8 "></div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4 ">
           <h1 className="font-semibold text-3xl text-start text-black ">
-            We find the highest & Best use of resource
+            20 Years of Experience in Solar Panel Service.
           </h1>
           <p className=" text-black text-start">
-            Solar energy is the beacon of sustainability in our quest for
-            cleaner and more eco-friendly power sources. In a world increasingly
-            concerned about environmental impact, harnessing the sun's energy
-            has emerged as a leading solution. Solar planet.
+            About us At influxsolarinc, we are passionate about solar energy and
+            committed to providing top-quality solar panels. With our expertise
+            and dedication, we help businesses harness the power of the sun to
+            reduce costs and contribute to a greener future. Join us in the
+            solar revolution!
           </p>
           <div className="sm:text-right text-4xl font-bold">
             {

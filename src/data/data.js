@@ -45,21 +45,21 @@ export const cards = [
   {
     id: 1,
     image: firsIcon,
-    title: 'solary',
-    text: ' component of the global effort to reduce greenhouse gas emissions, combat climate change, and transition to a more sustainable energy future. As technology advances and becomes more affordable, solar panels are likely to play an even more significant role in our energy landscape',
+    title: 'Installation Warranty',
+    text: ' Ensure that the installation work is covered by a warranty. This should cover any defects or issues related to the installation process.',
 
     live: '',
   },
   {
     id: 2,
     image: secIcon,
-    title: 'solary',
-    text: ' component of the global effort to reduce greenhouse gas emissions, combat climate change, and transition to a more sustainable energy future. As technology advances and becomes more affordable, solar panels are likely to play an even more significant role in our energy landscape',
+    title: 'For high quality work',
+    text: 'Our solar panels are top-notch, delivering exceptional quality and performance. Trust in our high-quality work to power up your business with clean and sustainable energy!     ',
   },
   {
     id: 3,
     image: thirdIcon,
-    title: 'solary',
-    text: ' component of the global effort to reduce greenhouse gas emissions, combat climate change, and transition to a more sustainable energy future. As technology advances and becomes more affordable, solar panels are likely to play an even more significant role in our energy landscape',
+    title: 'For trust and warranty',
+    text: 'Quality is everything! Our solar-panels are built to the highest standards, ensuring top-notch performance and long-lasting reliability. Power up your business with the best in solar technology!',
   },
 ];

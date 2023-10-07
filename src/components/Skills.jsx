@@ -54,20 +54,24 @@ const Skills = () => {
         <div className="lhflex lg:flex-col text-center justify-center items-center">
           <div className="hidden lg:block">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Easy installation
+              Solar Solutions
             </h1>
             <p className="lg:text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+              {' '}
+              Our solar solutions are tailored to meet your specific needs. we
+              have the right solar solution for you. Enjoy the benefits of
+              clean, reliable, and sustainable energy.
             </p>
           </div>
           <div className="hidden lg:block">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Easy installation
+              {' '}
+              Solar Panel Removal and Reinstallation
             </h1>
             <p className="lg:text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+              Planning to move? We can safely remove your solar panels and
+              reinstall them at your new location, ensuring your solar
+              investment continues to benefit you.
             </p>
           </div>
           <div className="hidden lg:block">
@@ -75,37 +79,41 @@ const Skills = () => {
               Easy installation
             </h1>
             <p className="lg:text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+              Experience hassle-free solar panel installation with our expert
+              team. Say goodbye to high energy bills and hello to clean, green
+              energy.
             </p>
           </div>
           <div className="lg:hidden mt-9 border border-1 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[20px]">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Easy installation
+              Renewable Energy Solutions
             </h1>
-            <p className="lg:text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+            <p className="lg:text-end lgpx-7">
+              Join the renewable energy revolution with our eco-friendly
+              solutions. We offer a range of renewable energy solutions that
+              allow you to reduce your environmental impact .
             </p>
           </div>
 
           <div className=" lg:hidden mt-9 border border-1 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[20px]">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Easy installation
+              Solar Maintenance
             </h1>
-            <p className="lg:text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+            <p className="lg:text-end lg:px-7">
+              Protect your solar investment with our comprehensive solar
+              maintenance services. We offer proactive maintenance and
+              troubleshooting to keep your system running smoothly.
             </p>
           </div>
 
           <div className=" lg:hidden mt-9 border-2 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[20px]">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Easy installation
+              Energy Solutions
             </h1>
-            <p className="lg:text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+            <p className="lg:text-end lg:px-7">
+              Harness the power of the sun with our cutting-edge energy
+              solutions. Whether you're looking to reduce your carbon footprint
+              our energy solutions have you covered.
             </p>
           </div>
         </div>

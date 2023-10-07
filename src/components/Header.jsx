@@ -66,12 +66,9 @@ const Header = () => {
                 alt="nim"
               />
               <p className=" font-semibold text-center mt-5 text-3xl ">
-                installation
+                {item.title}
               </p>
-              <p className="text-center px-9 mb-7">
-                Solar energy is the beacon of sustainability in our quest for
-                cleaner and more eco-friendly power sources.{' '}
-              </p>
+              <p className="text-center px-9 mb-7">{item.text}</p>
             </div>
           </div>
         ))}
