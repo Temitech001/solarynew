@@ -31,7 +31,9 @@ const Login = () => {
     >
       <div className=" max-w-[300px] w-[100%] mx-auto items-center justify-center flex flex-col ">
         <div className="  bg-white flex gap-5 flex-col items-center justify-center px-9 lg:p-20">
-          <h1 className="text-center text-[30px] font-semibold mb-6">LOGIN</h1>
+          <h1 className="text-center text-[30px] mt-2 font-semibold mb-6">
+            LOGIN
+          </h1>
 
           <form
             onSubmit={handleSubmit}
