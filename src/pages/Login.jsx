@@ -30,11 +30,14 @@ const Login = () => {
       className=" flex items-center justify-center"
     >
       <div className=" max-w-[300px] w-[100%] mx-auto items-center justify-center flex flex-col ">
-        <div className="  bg-white flex gap-5 flex-col items-center justify-center px-9 lg:p-20 rounded">
-          <h1 className="text-center text-[30px] mt-6 font-semibold mb-6">
+        <div className="  bg-white flex gap-5 flex-col items-center justify-center px-9 lg:px1 lg:p-20 rounded">
+          <h1 className="text-center text-[30px] mt-6 font-semibold lg:mb-2 mb-2">
             LOGIN
           </h1>
 
+          <h1 className="font-semibold text-3xl text-green-400">
+            Influxsolarinc
+          </h1>
           <form
             onSubmit={handleSubmit}
             className="flex flex-col items-center gap-7"
@@ -61,7 +64,7 @@ const Login = () => {
               <button className="bg-green-500 px-[70px] py-[8px] rounded-full">
                 Submit
               </button>
-              <h1 className="text-sm  mb-6">Forget password</h1>
+              <h1 className="text-sm lg:mb-2  mb-6">Forget password</h1>
             </div>
           </form>
         </div>
