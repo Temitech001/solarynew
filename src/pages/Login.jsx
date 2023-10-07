@@ -30,7 +30,7 @@ const Login = () => {
       className=" flex items-center justify-center"
     >
       <div className=" max-w-[300px] w-[100%] mx-auto items-center justify-center flex flex-col ">
-        <div className="  bg-white flex gap-5 flex-col items-center justify-center px-9 lg:p-20">
+        <div className="  bg-white flex gap-5 flex-col items-center justify-center px-9 lg:p-20 rounded">
           <h1 className="text-center text-[30px] mt-6 font-semibold mb-6">
             LOGIN
           </h1>
