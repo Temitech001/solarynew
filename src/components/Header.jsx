@@ -26,7 +26,7 @@ const Header = () => {
           <h1 className="mt-[20px] text-1xl text-white shadow-md z-index lg:text-5xl font-extrabold">
             Energy Generated From Natural Resources
           </h1>
-          <p className="text-sm text-white px-3 lg:text-2xl lg:font-extrabold font-bold">
+          <p className="text-sm text-white px-7 lg:text-2xl lg:font-extrabold font-bold">
             Solar power: because the best things in life end up being free.
           </p>
 
