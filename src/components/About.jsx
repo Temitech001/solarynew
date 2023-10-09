@@ -43,7 +43,7 @@ const About = () => {
               />
             }
             <p className="text-black px-[69px]">
-              I am Robert Michael, the CEO of influxsolarinc. With a profound
+              I am Michael Robert, the CEO of influxsolarinc. With a profound
               dedication to clean energy, I've devoted my career to advancing
               sustainable solutions to different companies across the world.
               This hands-on experience has shaped my commitment to providing
