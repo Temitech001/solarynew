@@ -24,7 +24,8 @@ const Header = () => {
         />
         <div className="flex flex-col  absolute top-28 gap-5 w-fit px-16 py-4 text-center justify-center  items-center z-40  ">
           <h1 className="mt-[20px] text-white shadow-md z-index lg:text-5xl font-extrabold">
-            Energy Generated from Natural Resource
+            Energy Generated From Natural Resources <br /> :Solar power,because
+            the best things in life end up being free.
           </h1>
           <p className="text-white shadow-md font-semibold text-sm  ">
             Solar Power because the best things in life end up being free
