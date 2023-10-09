@@ -122,7 +122,6 @@ const Navbar = () => {
           </Link>
         </li>
         <li className="py-6 text-2xl">
-          {' '}
           <Link
             onClick={handleClick}
             to="service"
