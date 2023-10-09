@@ -22,8 +22,8 @@ const Header = () => {
           src={img1}
           alt="key"
         />
-        <div className="flex flex-col  absolute top-28 gap-5 w-fit px-16 py-4 text-center justify-center  items-center z-40  ">
-          <h1 className="mt-[20px] text-sm text-white shadow-md z-index lg:text-5xl font-extrabold">
+        <div className="flex flex-col  absolute top-28 gap-3 w-fit px-16 py-4 text-center justify-center  items-center z-40  ">
+          <h1 className="mt-[20px] text-1xl text-white shadow-md z-index lg:text-5xl font-extrabold">
             Energy Generated From Natural Resources
           </h1>
           <p className="text-sm text-white px-3 lg:text-2xl lg:font-extrabold font-bold">
