@@ -4,7 +4,6 @@ const Footer = () => {
   return (
     <div className="flex flex-col lg:justify-center lg:items-center text-center">
       <p className="text-sm  font-bold">
-        {' '}
         Privacy Policy | Terms of Use | Definitions | FAQ Copyright ©
       </p>
       <p className="font-semibold text-sm">
