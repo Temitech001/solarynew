@@ -65,6 +65,7 @@ const Login = () => {
               <button className="bg-green-500 px-[70px] py-[8px] rounded-full">
                 Submit
               </button>
+              {error && <p className="text-red-500">{error}</p>}
               <h1 className="text-sm lg:mb-2  mb-6">Forget password</h1>
             </div>
           </form>
