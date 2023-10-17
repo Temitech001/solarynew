@@ -48,6 +48,7 @@ const Login = () => {
                 className="mb-4 border-2 flex justify-center items-center p-2 rounded-full  w-[100%] max-w-[200px] "
                 type="email"
                 name="email"
+                autoComplete="off"
                 placeholder="Enter your Email"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
@@ -57,6 +58,7 @@ const Login = () => {
                 className="mb-4 border-2 flex justify-center items-center  p-2 rounded-full  w-[100%] max-w-[200px] px-[auto]"
                 type="password"
                 placeholder="Password"
+                autoComplete="off"
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
               />
