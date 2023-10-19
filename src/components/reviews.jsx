@@ -16,17 +16,17 @@ const Reviews = () => {
     <div className="flex gap-9 justify-center items-center mt-8">
       <div
         style={bgStyle}
-        className=" w-[700px] py-9 text-white"
+        className=" w-[300px] py-9 text-white"
       >
         <div className="flex flex-col  justify-center items-center mt-1 gap-3">
-          <div className="flex flex-col justify-center items-center border px-4 py-1 lg:px-[70px] lg:py-5 ">
+          <div className="flex flex-col justify-center items-center border px-4 py-1  ">
             <h1 className="">
               <AiOutlineUsergroupAdd />
             </h1>
             <p>Total Projects</p>
             <p className="text-2xl">59+</p>
           </div>
-          <div className="flex flex-col justify-center items-center border px-4 py-1 lg:px-[70px] lg:py-5">
+          <div className="flex flex-col justify-center items-center border px-4 py-1 ">
             <h1>
               <AiOutlineStar />
             </h1>

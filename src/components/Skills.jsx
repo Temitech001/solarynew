@@ -47,7 +47,8 @@ const Skills = () => {
             alt="solar "
           />
         </div>
-        <div className="lhflex lg:flex-col text-center justify-center items-center">
+
+        <div className="flex lg:flex-col text-center justify-center items-center">
           <div className="hidden lg:block">
             <h1 className="font-semibold text-xl text-black lg:text-end">
               Solar Solutions
