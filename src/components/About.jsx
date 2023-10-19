@@ -28,13 +28,14 @@ const About = () => {
           <div className="sm:text-right text-4xl flex flex-col gap-3 font-bold">
             {
               <img
+                className="h-[270px] w-[400px]"
                 src={aboutimg}
                 alt="imagee"
               />
             }
             {
               <img
-                className="h-[350px] w-[4000px] hidden lg:block"
+                className="h-[270px] w-[400px] hidden lg:block"
                 src={about1}
                 alt="imagee"
               />
