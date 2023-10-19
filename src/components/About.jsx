@@ -42,6 +42,7 @@ const About = () => {
                 alt="imagee"
               />
             }
+
             <p className="text-black px-[69px]">
               I am Michael Robert, the CEO of influxsolarinc. With a profound
               dedication to clean energy, I've devoted my career to advancing
