@@ -19,29 +19,30 @@ const Skills = () => {
         <div className="lg:flex lg:flex-col hidden">
           <div>
             <h1 className="font-semibold text-xl text-black text-end">
-              Easy installation
+              Solar for Commercial Spaces
             </h1>
             <p className="text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+              Our commercial solar systems are designed to meet the energy needs
+              of businesses, reducing operating costs and promoting
+              sustainability.
             </p>
           </div>
           <div>
             <h1 className="font-semibold text-xl text-black">
-              Easy installation
+              Solar for Residential Properties
             </h1>
             <p className="text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+              We offer residential solar solutions for homeowners looking to
+              save on electricity bills and reduce their carbon footprint.
             </p>
           </div>
           <div>
             <h1 className="font-semibold text-xl text-black">
-              Easy installation
+              Solar for Agriculture
             </h1>
             <p className="text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+              We specialize in agricultural solar solutions, providing power for
+              irrigation, farm operations, and livestock facilities.
             </p>
           </div>
         </div>
@@ -54,83 +55,87 @@ const Skills = () => {
         <div className="lhflex lg:flex-col text-center justify-center items-center">
           <div className="hidden lg:block">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Easy installation
+              Comprehensive Project Management
             </h1>
             <p className="lg:text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+              From project inception to completion, we manage every detail,
+              ensuring efficient resource coordination and adherence to
+              timelines and budgets.
             </p>
           </div>
           <div className="hidden lg:block">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Easy installation
+              Sustainability
             </h1>
             <p className="lg:text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+              We evaluate the environmental impact of solar projects and
+              recommend sustainable solutions to reduce your carbon footprint.
             </p>
           </div>
           <div className="hidden lg:block">
             <h1 className=" font-semibold text-xl text-black lg:text-end mt-5">
-              Easy installation
+              Custom System Design
             </h1>
             <p className="lg:text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+              Our solar engineers tailor solar power systems to meet your energy
+              needs, determining panel quantity, placement, and system layout
+              with precision.
             </p>
           </div>
           <div className="lg:hidden mt-9 border border-1 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[50px]">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Easy installation
+              Site Assessment
             </h1>
             <p className="lg:text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+              We evaluate your location's suitability for solar installation,
+              taking into account factors like shading, sun exposure, and
+              structural integrity.
             </p>
           </div>
           <div className="lg:hidden mt-9 border border-1 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[50px]">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Easy installation
+              Feasibility Analysis
             </h1>
             <p className="lg:text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+              Our experts conduct comprehensive feasibility studies, calculating
+              costs, benefits, and potential return on investment for your solar
+              project.
             </p>
           </div>
           <div className=" lg:hidden mt-9 border border-1 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[50px]">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Easy installation
+              Permitting and Compliance
             </h1>
             <p className="lg:text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+              We handle the complex permitting and regulatory aspects to ensure
+              compliance with local building codes and regulations.
             </p>
           </div>
           <div className=" lg:hidden mt-9 border border-1 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[50px]">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Easy installation
+              Electrical Expertise
             </h1>
             <p className="lg:text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+              With expertise in electrical work, we handle the wiring and grid
+              connection to ensure a seamless solar system integration.
             </p>
           </div>
           <div className=" lg:hidden mt-9 border border-1 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[50px]">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Easy installation
+              Monitoring and Optimization
             </h1>
             <p className="lg:text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+              We implement monitoring systems for tracking performance and
+              making adjustments to maximize energy production.
             </p>
           </div>
           <div className=" lg:hidden mt-9 border border-1 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[50px]">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Easy installation
+              Professional Installation
             </h1>
             <p className="lg:text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+              Our team oversees the installation of solar panels, inverters, and
+              other components, guaranteeing a flawless setup and connections.
             </p>
           </div>
         </div>
