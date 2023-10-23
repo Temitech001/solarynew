@@ -1,8 +1,6 @@
 import React from 'react';
 
 const About = () => {
-  const about1 =
-    'https://res.cloudinary.com/dutvrzezk/image/upload/v1697730841/moritz-kindler-gD8IO0E4OZM-unsplash_m5tmo7.jpg';
   const myPic =
     'https://res.cloudinary.com/dutvrzezk/image/upload/v1696668922/Mikkk_eghovi.jpg';
   const aboutimg =
@@ -25,18 +23,10 @@ const About = () => {
             reduce costs and contribute to a greener future. Join us in the
             solar revolution!
           </p>
-          <div className="sm:text-right text-4xl flex flex-col gap-3 font-bold">
+          <div className="sm:text-right text-4xl font-bold">
             {
               <img
-                className="h-[270px] w-[400px]"
                 src={aboutimg}
-                alt="imagee"
-              />
-            }
-            {
-              <img
-                className="h-[270px] w-[400px] hidden lg:block"
-                src={about1}
                 alt="imagee"
               />
             }
@@ -52,7 +42,6 @@ const About = () => {
                 alt="imagee"
               />
             }
-
             <p className="text-black px-[69px]">
               I am Michael Robert, the CEO of influxsolarinc. With a profound
               dedication to clean energy, I've devoted my career to advancing

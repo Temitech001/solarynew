@@ -63,3 +63,10 @@ export const cards = [
     text: 'Quality is everything! Our solar-panels are built to the highest standards, ensuring top-notch performance and long-lasting reliability. Power up your business with the best in solar technology!',
   },
 ];
+
+export const about = [
+  {
+    id: 1,
+    text: '',
+  },
+];
