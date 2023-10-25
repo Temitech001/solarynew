@@ -40,39 +40,6 @@ const Header = () => {
             </button>
           </Link>
         </div>
-        <div className="text-white mt-[120px]  flex flex-col  px-8   items-center justify-center lg:flex-row lg:px-40 lg:gap-5 lg:justify-evenly gap-8">
-          <h1 className=" mt-8 flex-1 font-semibold text-3xl text-start text-black">
-            We find the highest and Best use of resource
-          </h1>
-          <p className=" flex-1 text-black text-start">
-            Solar energy is the beacon of sustainability in our quest for
-            cleaner and more eco-friendly power sources. In a world increasingly
-            concerned about environmental impact, harnessing the sun's energy
-            has emerged as a leading solution. Solar planet.
-          </p>
-        </div>
-      </div>
-
-      <div className=" mt-10 flex flex-col gap-4 text-center lg:flex-row justify-around items-center">
-        {cards?.map((item) => (
-          <div
-            className="bg-white text-blue-600"
-            key={item.id}
-          >
-            <div className="flex flex-col items-center border   border-1  w-[320px]">
-              {' '}
-              <img
-                className="w-[150px]  "
-                src={item.image}
-                alt="nim"
-              />
-              <p className=" font-semibold text-center mt-5 text-3xl ">
-                {item.title}
-              </p>
-              <p className="text-center px-9 mb-7">{item.text}</p>
-            </div>
-          </div>
-        ))}
       </div>
     </div>
   );

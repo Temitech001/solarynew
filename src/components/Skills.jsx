@@ -3,10 +3,10 @@ import React from 'react';
 const Skills = () => {
   return (
     <div
-      name="Our Service"
+      name="service"
       className="w-full lg:h-screen bg-white text-gray-300"
     >
-      <div className="text-white mt-[70px] flex flex-col  px-8   items-center justify-center lg:flex-row  gap-8">
+      <div className="text-white mt-[180px] flex flex-col  px-8   items-center justify-center lg:flex-row  gap-8">
         <h1 className="font-semibold text-3xl text-start text-black flex-2">
           We find the highest and Best use of resource
         </h1>
@@ -19,30 +19,25 @@ const Skills = () => {
         <div className="lg:flex lg:flex-col hidden">
           <div>
             <h1 className="font-semibold text-xl text-black text-end">
-              Solar for Commercial Spaces
+              Easy installation
+            </h1>
+          </div>
+          <div>
+            <h1 className="font-semibold text-xl text-black">
+              Easy installation
             </h1>
             <p className="text-end">
-              Our commercial solar systems are designed to meet the energy needs
-              of businesses, reducing operating costs and promoting
-              sustainability.
+              Solar energy is the beacon of sustainability in our quest for
+              cleaner and more eco-friendly power sources.
             </p>
           </div>
           <div>
             <h1 className="font-semibold text-xl text-black">
-              Solar for Residential Properties
+              Easy installation
             </h1>
             <p className="text-end">
-              We offer residential solar solutions for homeowners looking to
-              save on electricity bills and reduce their carbon footprint.
-            </p>
-          </div>
-          <div>
-            <h1 className="font-semibold text-xl text-black">
-              Solar for Agriculture
-            </h1>
-            <p className="text-end">
-              We specialize in agricultural solar solutions, providing power for
-              irrigation, farm operations, and livestock facilities.
+              Solar energy is the beacon of sustainability in our quest for
+              cleaner and more eco-friendly power sources.
             </p>
           </div>
         </div>
@@ -52,90 +47,70 @@ const Skills = () => {
             alt="solar "
           />
         </div>
-        <div className="lhflex lg:flex-col text-center justify-center items-center">
+
+        <div className="flex flex-col lg:flex-col text-center justify-center items-center">
           <div className="hidden lg:block">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Comprehensive Project Management
+              Solar Solutions
             </h1>
             <p className="lg:text-end">
-              From project inception to completion, we manage every detail,
-              ensuring efficient resource coordination and adherence to
-              timelines and budgets.
+              {' '}
+              Our solar solutions are tailored to meet your specific needs. we
+              have the right solar solution for you. Enjoy the benefits of
+              clean, reliable, and sustainable energy.
             </p>
           </div>
           <div className="hidden lg:block">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Sustainability
+              {' '}
+              Solar Panel Removal and Reinstallation
             </h1>
             <p className="lg:text-end">
-              We evaluate the environmental impact of solar projects and
-              recommend sustainable solutions to reduce your carbon footprint.
+              Planning to move? We can safely remove your solar panels and
+              reinstall them at your new location, ensuring your solar
+              investment continues to benefit you.
             </p>
           </div>
           <div className="hidden lg:block">
             <h1 className=" font-semibold text-xl text-black lg:text-end mt-5">
-              Custom System Design
+              Easy installation
             </h1>
             <p className="lg:text-end">
-              Our solar engineers tailor solar power systems to meet your energy
-              needs, determining panel quantity, placement, and system layout
-              with precision.
+              Experience hassle-free solar panel installation with our expert
+              team. Say goodbye to high energy bills and hello to clean, green
+              energy.
             </p>
           </div>
-          <div className="lg:hidden mt-9 border border-1 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[50px]">
+          <div className="lg:hidden mt-9 border border-1 w-[300px] py-9 px-[51px] flex flex-col items-center  ml-[20px]">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Site Assessment
+              Renewable Energy Solutions
             </h1>
-            <p className="lg:text-end">
-              We evaluate your location's suitability for solar installation,
-              taking into account factors like shading, sun exposure, and
-              structural integrity.
+            <p className="lg:text-end lg:px-7">
+              Join the renewable energy revolution with our eco-friendly
+              solutions. We offer a range of renewable energy solutions that
+              allow you to reduce your environmental impact .
             </p>
           </div>
-          <div className="lg:hidden mt-9 border border-1 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[50px]">
+
+          <div className=" lg:hidden mt-9 border border-1 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[20px]">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Feasibility Analysis
+              Solar Maintenance
             </h1>
-            <p className="lg:text-end">
-              Our experts conduct comprehensive feasibility studies, calculating
-              costs, benefits, and potential return on investment for your solar
-              project.
+            <p className="lg:text-end lg:px-7">
+              Protect your solar investment with our comprehensive solar
+              maintenance services. We offer proactive maintenance and
+              troubleshooting to keep your system running smoothly.
             </p>
           </div>
-          <div className=" lg:hidden mt-9 border border-1 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[50px]">
+
+          <div className=" lg:hidden mt-9 border-2 w-[301px] py-9 px-[50px] flex flex-col items-center  ml-[20px]">
             <h1 className="font-semibold text-xl text-black lg:text-end">
-              Permitting and Compliance
+              Energy Solutions
             </h1>
-            <p className="lg:text-end">
-              We handle the complex permitting and regulatory aspects to ensure
-              compliance with local building codes and regulations.
-            </p>
-          </div>
-          <div className=" lg:hidden mt-9 border border-1 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[50px]">
-            <h1 className="font-semibold text-xl text-black lg:text-end">
-              Electrical Expertise
-            </h1>
-            <p className="lg:text-end">
-              With expertise in electrical work, we handle the wiring and grid
-              connection to ensure a seamless solar system integration.
-            </p>
-          </div>
-          <div className=" lg:hidden mt-9 border border-1 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[50px]">
-            <h1 className="font-semibold text-xl text-black lg:text-end">
-              Monitoring and Optimization
-            </h1>
-            <p className="lg:text-end">
-              We implement monitoring systems for tracking performance and
-              making adjustments to maximize energy production.
-            </p>
-          </div>
-          <div className=" lg:hidden mt-9 border border-1 w-[300px] py-9 px-[50px] flex flex-col items-center  ml-[50px]">
-            <h1 className="font-semibold text-xl text-black lg:text-end">
-              Professional Installation
-            </h1>
-            <p className="lg:text-end">
-              Our team oversees the installation of solar panels, inverters, and
-              other components, guaranteeing a flawless setup and connections.
+            <p className="lg:text-end lg:px-7">
+              Harness the power of the sun with our cutting-edge energy
+              solutions. Whether you're looking to reduce your carbon footprint
+              our energy solutions have you covered.
             </p>
           </div>
         </div>

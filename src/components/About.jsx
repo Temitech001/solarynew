@@ -21,7 +21,7 @@ const About = () => {
             committed to providing top-quality solar panels. With our expertise
             and dedication, we help businesses harness the power of the sun to
             reduce costs and contribute to a greener future. Join us in the
-            solar revolution!
+            solar revolution!
           </p>
           <div className="sm:text-right text-4xl font-bold">
             {
