@@ -23,21 +23,21 @@ const Reviews = () => {
             <h1 className="">
               <AiOutlineUsergroupAdd />
             </h1>
-            <p>Total Projects</p>
+            <p>Total Projects.</p>
             <p className="text-2xl">59+</p>
           </div>
           <div className="flex flex-col justify-center items-center border px-4 py-1 ">
             <h1>
               <AiOutlineStar />
             </h1>
-            <p>Rating customers </p>
+            <p>Rating customers. </p>
             <p>47+</p>
           </div>
           <div className="flex flex-col justify-center items-center border px-4 py-1 lg:px-[70px] lg:py-5">
             <h1>
               <BsTrophy />
             </h1>
-            <p>Award winning</p>
+            <p>Award winning.</p>
             <p>49+</p>
           </div>
         </div>
