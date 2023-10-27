@@ -38,7 +38,7 @@ const Reviews = () => {
               <BsTrophy />
             </h1>
             <p>Award winning.</p>
-            <p>17+</p>
+            <p>14+</p>
           </div>
         </div>
       </div>
