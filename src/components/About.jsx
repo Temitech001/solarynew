@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
   const myPic =
-    'https://res.cloudinary.com/dutvrzezk/image/upload/v1696668922/Mikkk_eghovi.jpg';
+    'https://res.cloudinary.com/dutvrzezk/image/upload/v1698375724/Mic_w2us4b.jpg';
   const aboutimg =
     'https://res.cloudinary.com/dutvrzezk/image/upload/v1696376468/ttt_qvgktz.jpg';
   return (

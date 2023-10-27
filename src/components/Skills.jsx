@@ -17,18 +17,17 @@ const Skills = () => {
       </div>
       <div className="flex justify-center gap-10 mt-[40px] w-[80%] mx-auto text-black ">
         <div className="lg:flex lg:flex-col hidden">
-          <div>
-            <h1 className="font-semibold text-xl text-black text-end">
-              Easy installation
-            </h1>
-          </div>
+          <div></div>
           <div>
             <h1 className="font-semibold text-xl text-black">
               Easy installation
             </h1>
             <p className="text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+              Our skilled technicians will install your solar system with
+              precision and care. Safety and quality are our priorities, and we
+              adhere to industry standards.Our service covers all necessary
+              permits, regulatory compliance, and inspections, so you can relax
+              knowing that your solar installation is in capable hands.
             </p>
           </div>
           <div>
@@ -82,12 +81,13 @@ const Skills = () => {
           </div>
           <div className="hidden lg:block">
             <h1 className=" font-semibold text-xl text-black lg:text-end mt-5">
-              Easy installation
+              Inspection And Maintenance
             </h1>
             <p className="lg:text-end">
-              Experience hassle-free solar panel installation with our expert
-              team. Say goodbye to high energy bills and hello to clean, green
-              energy.
+              Thorough inspection of the solar array to identify and address any
+              issues, including damaged panels, loose connections, or electrical
+              problems,Periodic inspection of inverters and electrical
+              components to ensure they are functioning correctly.
             </p>
           </div>
           <div className="lg:hidden mt-9 border border-1 w-[300px] py-9 px-[51px] flex flex-col items-center  ml-[20px]">
