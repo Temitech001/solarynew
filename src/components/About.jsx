@@ -17,11 +17,12 @@ const About = () => {
             20 Years of Experience in Solar Panel Service.
           </h1>
           <p className=" text-black text-start">
-            About us At influxsolarinc, we are passionate about solar energy and
-            committed to providing top-quality solar panels. With our expertise
-            and dedication, we help businesses harness the power of the sun to
-            reduce costs and contribute to a greener future. Join us in the
-            solar revolution!
+            Are you ready to take control of your energy future? Our
+            high-quality solar panels are your ticket to clean, sustainable, and
+            cost-effective power generation.Make the switch to solar and
+            experience the many benefits it brings. From saving money to
+            reducing your environmental impact, it's a choice you can feel good
+            about.
           </p>
           <div className="sm:text-right text-4xl font-bold">
             {
