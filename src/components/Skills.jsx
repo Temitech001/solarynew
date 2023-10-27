@@ -33,11 +33,20 @@ const Skills = () => {
           </div>
           <div>
             <h1 className="font-semibold text-xl text-black">
-              Easy installation
+              Project managment
             </h1>
             <p className="text-end">
-              Solar energy is the beacon of sustainability in our quest for
-              cleaner and more eco-friendly power sources.
+              Assess the project's technical, economic, and environmental
+              feasibility,Establish clear and measurable goals, such as
+              electricity generation capacity, cost targets, and environmental
+              impact.
+              <br />
+              Identify suitable locations based on solar resource availability,
+              land accessibility, and environmental impact assessments.
+              <br />
+              Manage the construction phase, including site preparation,
+              installation of solar panels, electrical wiring, and
+              infrastructure.
             </p>
           </div>
         </div>
